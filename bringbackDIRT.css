@@ -1,0 +1,41 @@
+/* Shamelessly adapted from Peter Hosey's http://aretheiphoneapispublicyet.com/ */
+html {
+	font-family: "Helvetica", "Helvetica Neue", "Arial", "Geneva", sans-serif;
+
+	background-color: white;
+	color: black;
+}
+
+p#answer, p#subanswer {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+p#answer {
+	font-size: 4cm;
+	margin: 0.5em;
+}
+
+p#subanswer {
+	font-size: 2cm;
+}
+
+span#but {
+	font-size: 1.5em;
+}
+
+address {
+	background-color: #eee;
+	padding: 0.5em;
+
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-webkit-border-radius: 5px;
+
+	margin: auto;
+	width: 50%;
+	font-style: normal;
+	text-align: center;
+	margin-top: 3em;
+}

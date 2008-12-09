@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Is It MORE Yet?</title> 
+	<link href="http://isitmoreyet.com/" rel="alternate"/>
+	<link href="http://isitmoreyet.com/bringbackDIRT.atom" rel="self"/>
+	<updated>2008-11-01T14:14:00.00Z</updated>
+	<author> 
+		<name>Sören Kuklau</name>
+		<uri>http://chucker.me/</uri>
+	</author> 
+	<id>http://isitmoreyet.com/bringbackDIRT.atom</id>
+
+	<entry>
+		<title>NO.</title>
+		<link href="http://isitmoreyet.com/"/>
+		<id>http://isitmoreyet.com/</id>
+		<updated>2008-11-01T14:14:00.00Z</updated>
+		<author><name>Sören Kuklau</name></author>
+		<summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml">
+			<p id="answer">NO,</p>
+			<p id="subanswer">It Is Not <a href="http://en.mystlore.com/wiki/MORE" title="Myst Online Rerestoration Experiment - MYSTlore">MORE</a> Yet.</p>
+
+			<div id="details">
+				<p><span id="but">But!</span> Not everyone has given up hope. <strong>The Myst / Uru / D'ni fan community is alive and kicking.</strong> And <a href="http://mystblogs.com/" title="Myst Blogs">blogging</a>, and <a href="http://search.twitter.com/search?q=&amp;ands=cyan&amp;phrase=&amp;ors=uru+myst+moul+more" title="- Twitter Search">twittering</a>, and posting to <a href="http://www.mystonline.com/forums/index.php" title="Myst Online: URU Live Forums :: Index">forums</a>, <a href="http://en.mystlore.com/wiki/Main_Page" title="Main Page - MYSTlore">wikis</a> and <a href="http://rel.to/" title="Rel.to - Six Degrees to D'ni">a ton of other places</a>. <em>Get involved!</em></p>
+			</div>
+		</div></summary>
+	</entry>
+</feed>
